@@ -1,0 +1,16 @@
+﻿$Username = "hal.admtecssa05"
+$Pass = "Passw0rd1!"
+$RegistryPath = 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon'
+Set-ItemProperty $RegistryPath 'AutoAdminLogon' -Value "1" -Type String 
+Set-ItemProperty $RegistryPath 'DefaultUsername' -Value "$Username" -type String 
+Set-ItemProperty $RegistryPath 'DefaultPassword' -Value "$Pass" -type String
+
+Restart-Computer -Force
+
+
+"C:\Program Files (x86)\CheckPoint\Endpoint Connect\TrGUI.exe"
+
+pwsh.exe -File <FileName> -ExecutionPolicy Bypass
+
+
+cd C:\Program Files (x86)\CheckPoint\Endpoint Connect\

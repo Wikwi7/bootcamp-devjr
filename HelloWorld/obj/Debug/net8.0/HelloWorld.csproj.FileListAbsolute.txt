@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

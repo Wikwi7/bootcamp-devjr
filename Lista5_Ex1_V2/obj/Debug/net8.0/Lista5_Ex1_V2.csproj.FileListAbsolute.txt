@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\obj\Debug\net8.0\Lista5_Ex1_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\obj\Debug\net8.0\Lista5_Ex1_V2.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\obj\Debug\net8.0\Lista5_Ex1_V2.AssemblyInfo.cs
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\obj\Debug\net8.0\Lista5_Ex1_V2.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\bin\Debug\net8.0\Lista5_Ex1_V2.exe
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\bin\Debug\net8.0\Lista5_Ex1_V2.deps.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\bin\Debug\net8.0\Lista5_Ex1_V2.runtimeconfig.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\bin\Debug\net8.0\Lista5_Ex1_V2.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\bin\Debug\net8.0\Lista5_Ex1_V2.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\obj\Debug\net8.0\Lista5_Ex1_V2.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\obj\Debug\net8.0\refint\Lista5_Ex1_V2.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\obj\Debug\net8.0\Lista5_Ex1_V2.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\obj\Debug\net8.0\Lista5_Ex1_V2.genruntimeconfig.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista5_Ex1_V2\obj\Debug\net8.0\ref\Lista5_Ex1_V2.dll

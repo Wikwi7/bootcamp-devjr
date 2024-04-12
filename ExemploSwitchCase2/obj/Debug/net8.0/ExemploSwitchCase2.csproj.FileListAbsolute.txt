@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\bin\Debug\net8.0\ExemploSwitchCase2.exe
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\bin\Debug\net8.0\ExemploSwitchCase2.deps.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\bin\Debug\net8.0\ExemploSwitchCase2.runtimeconfig.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\bin\Debug\net8.0\ExemploSwitchCase2.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\bin\Debug\net8.0\ExemploSwitchCase2.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\obj\Debug\net8.0\ExemploSwitchCase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\obj\Debug\net8.0\ExemploSwitchCase2.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\obj\Debug\net8.0\ExemploSwitchCase2.AssemblyInfo.cs
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\obj\Debug\net8.0\ExemploSwitchCase2.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\obj\Debug\net8.0\ExemploSwitchCase2.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\obj\Debug\net8.0\refint\ExemploSwitchCase2.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\obj\Debug\net8.0\ExemploSwitchCase2.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\obj\Debug\net8.0\ExemploSwitchCase2.genruntimeconfig.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploSwitchCase2\obj\Debug\net8.0\ref\ExemploSwitchCase2.dll

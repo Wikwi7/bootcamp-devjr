@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\bin\Debug\net8.0\CalculoImpostoDeRenda.exe
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\bin\Debug\net8.0\CalculoImpostoDeRenda.deps.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\bin\Debug\net8.0\CalculoImpostoDeRenda.runtimeconfig.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\bin\Debug\net8.0\CalculoImpostoDeRenda.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\bin\Debug\net8.0\CalculoImpostoDeRenda.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\obj\Debug\net8.0\CalculoImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\obj\Debug\net8.0\CalculoImpostoDeRenda.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\obj\Debug\net8.0\CalculoImpostoDeRenda.AssemblyInfo.cs
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\obj\Debug\net8.0\CalculoImpostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\obj\Debug\net8.0\CalculoImpostoDeRenda.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\obj\Debug\net8.0\refint\CalculoImpostoDeRenda.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\obj\Debug\net8.0\CalculoImpostoDeRenda.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\obj\Debug\net8.0\CalculoImpostoDeRenda.genruntimeconfig.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\CalculoImpostoDeRenda\obj\Debug\net8.0\ref\CalculoImpostoDeRenda.dll

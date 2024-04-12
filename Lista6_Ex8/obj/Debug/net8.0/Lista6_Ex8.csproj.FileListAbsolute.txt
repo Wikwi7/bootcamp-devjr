@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\obj\Debug\net8.0\Lista6_Ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\obj\Debug\net8.0\Lista6_Ex8.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\obj\Debug\net8.0\Lista6_Ex8.AssemblyInfo.cs
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\obj\Debug\net8.0\Lista6_Ex8.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\bin\Debug\net8.0\Lista6_Ex8.exe
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\bin\Debug\net8.0\Lista6_Ex8.deps.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\bin\Debug\net8.0\Lista6_Ex8.runtimeconfig.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\bin\Debug\net8.0\Lista6_Ex8.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\bin\Debug\net8.0\Lista6_Ex8.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\obj\Debug\net8.0\Lista6_Ex8.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\obj\Debug\net8.0\refint\Lista6_Ex8.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\obj\Debug\net8.0\Lista6_Ex8.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\obj\Debug\net8.0\Lista6_Ex8.genruntimeconfig.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex8\obj\Debug\net8.0\ref\Lista6_Ex8.dll

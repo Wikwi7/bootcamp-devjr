@@ -1,0 +1,5 @@
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista9_Ex2\obj\Debug\net8.0\Lista9_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista9_Ex2\obj\Debug\net8.0\Lista9_Ex2.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista9_Ex2\obj\Debug\net8.0\Lista9_Ex2.AssemblyInfo.cs
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista9_Ex2\obj\Debug\net8.0\Lista9_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista9_Ex2\obj\Debug\net8.0\Lista9_Ex2.sourcelink.json

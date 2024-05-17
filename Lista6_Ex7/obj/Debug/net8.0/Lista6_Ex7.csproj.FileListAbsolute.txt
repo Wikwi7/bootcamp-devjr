@@ -12,3 +12,4 @@ C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programaç
 C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex7\obj\Debug\net8.0\Lista6_Ex7.pdb
 C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex7\obj\Debug\net8.0\Lista6_Ex7.genruntimeconfig.cache
 C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex7\obj\Debug\net8.0\ref\Lista6_Ex7.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\Lista6_Ex7\obj\Debug\net8.0\Lista6_Ex7.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\bin\Debug\net8.0\ExemploClasse1.exe
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\bin\Debug\net8.0\ExemploClasse1.deps.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\bin\Debug\net8.0\ExemploClasse1.runtimeconfig.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\bin\Debug\net8.0\ExemploClasse1.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\bin\Debug\net8.0\ExemploClasse1.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\obj\Debug\net8.0\ExemploClasse1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\obj\Debug\net8.0\ExemploClasse1.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\obj\Debug\net8.0\ExemploClasse1.AssemblyInfo.cs
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\obj\Debug\net8.0\ExemploClasse1.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\obj\Debug\net8.0\ExemploClasse1.sourcelink.json
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\obj\Debug\net8.0\ExemploClasse1.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\obj\Debug\net8.0\refint\ExemploClasse1.dll
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\obj\Debug\net8.0\ExemploClasse1.pdb
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\obj\Debug\net8.0\ExemploClasse1.genruntimeconfig.cache
+C:\Users\willi\OneDrive - Fatec Centro Paula Souza\Aulas\Linguagrm de Programação\Projetos\Codes\ExemploClasse1\obj\Debug\net8.0\ref\ExemploClasse1.dll
